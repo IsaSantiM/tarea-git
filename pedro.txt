@@ -1,3 +1,6 @@
 Hola Pedro, primera prueba 
 
-hola pedrito desde main
+<<<<<<< HEAD
+hola pedrito desde la rama main, resolviendo conflictos jaja
+haciendo el cambio desde la rama prueba
+>>>>>>> prueba
